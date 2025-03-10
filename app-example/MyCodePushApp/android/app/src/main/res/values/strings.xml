@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCodePushApp</string>
+    <string moduleConfig="true" name="CodePushServerUrl">https://codepush-ss1.azurewebsites.net</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">CjvY1SO5h8sUTNvAUxqhYy5YGHW5VknrEqIj-g</string>
+</resources>
